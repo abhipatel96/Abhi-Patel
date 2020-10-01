@@ -1,2 +1,2 @@
 # Abhi-Patel
-Knowledge about c,c++,java,php,html,css,python,Android Studio
+Knowledge about c,c++, Java, Php, HTML, css,Python and Android Studio.
